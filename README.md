@@ -3,6 +3,8 @@
 
 ## I'm Paulo Henrique!
 
+📳 
+
 :computer: I'm Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
@@ -10,6 +12,7 @@
 :books: I’m currently learning everything but my focus is mobile development.
 
 :outbox_tray: 2021 Goals: Learning Swift basics.
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohbraga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohbraga&layout=compact&langs_count=7&theme=algolia"/>
