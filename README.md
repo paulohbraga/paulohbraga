@@ -3,13 +3,13 @@
 
 ## I'm Paulo Henrique!
 
-📳 
-
 :computer: I'm Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
+📳 As Mobile Application developer, my current frameworks are React Native using JS/TS with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas and persist), offile first apps, styled components, animations. I also program using the Flutter framework as hobby.
 :books: I’m currently learning everything but my focus is mobile development.
+
 
 :outbox_tray: 2021 Goals: Learning Swift basics.
 
