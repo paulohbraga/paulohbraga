@@ -12,7 +12,7 @@
 :books: I’m currently learning everything but my focus is mobile development.
 
 
-:outbox_tray: 2021 Goals: Learning Swift basics.
+:outbox_tray: 2022 Goals: Learning Swift basics.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohbraga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
