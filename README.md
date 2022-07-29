@@ -7,7 +7,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-📳 As Mobile Application developer, my current frameworks are React Native using JS/TS with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas and persist), offline first apps, styled components, animations. I also program using the Flutter framework as hobby.
+📳 As Mobile Application developer, my current frameworks are React Native using JS/TS with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas), offline first apps, styled components, animations. I also program using the Flutter framework as hobby.
 
 :books: I’m currently learning everything but my focus is mobile development.
 
