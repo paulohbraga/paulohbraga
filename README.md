@@ -12,7 +12,7 @@
 :books: I’m currently learning everything but my focus is mobile development.
 
 
-:outbox_tray: 2022 Goals: Learning Swift basics.
+:outbox_tray: 2022 Goals: Learn Swift basics.
 
 <div>
   
