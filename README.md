@@ -3,16 +3,17 @@
 
 ## I'm Paulo Henrique!
 
-:computer: I'm Front-End Developer!
+:computer: Senior Software Engineer
 
 :house_with_garden: I’m from Brazil.
 
-📳 As Mobile Application developer, my current frameworks are React Native using JS/TS with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas), offline first apps, styled components, animations. I also program using the Flutter framework as hobby.
+📳 As Mobile Application developer, my current frameworks are React Native using JS/TS with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas), offline first apps, styled components, animations. I also program using the Flutter framework and Java technologies.
 
-:books: I’m currently learning everything but my focus is mobile development.
+:books: I’m currently learning everything software development.
 
+:rocket: 2023 Goals: <s>Start a new post-graduate degree.</s>
 
-:outbox_tray: 2022 Goals: Learn Swift basics.
+:clipboard: 2023 Goals: Learn the basics of AWS in order to obtain a certification.
 
 <div>
   
