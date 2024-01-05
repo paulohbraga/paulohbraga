@@ -17,7 +17,7 @@ Java developer(Spring, SpringData JPA, SpringBoot) technologies, REST API's, SQL
 
 :rocket: 2023 Goals: <s>Start a new post-graduate degree.</s>
 
-:clipboard: 2023 Goals: Obtain an AWS Certified Solutions Architect.
+:clipboard: 2024 Goals: Obtain an AWS Certified Solutions Architect.
 
 
 
