@@ -1,6 +1,4 @@
 ### Hi there 👋
-# Welcome!
-
 ## I'm Paulo Henrique!
 
 :computer: Senior Software Engineer
