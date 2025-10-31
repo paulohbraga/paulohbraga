@@ -17,6 +17,9 @@ Java developer(Spring, SpringData JPA, SpringBoot) technologies, REST API's, SQL
 
 :clipboard: 2024 Goals: <s>Obtain an AWS Certified Solutions Architect.</s>
 
+🇲🇽: 2025 Goals: <s>Learn Spanish language basics</s>
+
+
 
 
 <div>
