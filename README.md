@@ -28,7 +28,7 @@ Java developer(Spring, SpringData JPA, SpringBoot) technologies, REST API's, SQL
 </div>
 
 
-## About me
+##
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/paulohbragap)](https://br.linkedin.com/in/paulohbragap)
 
