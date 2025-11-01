@@ -3,15 +3,12 @@
 
 :computer: Senior Software Engineer
 
-📳 ###Fullstack Software developer
 
-I've been working with frameworks like React Native using Javascript/Typescript with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas, offline first apps, styled components and animations. I'm also programming using the Flutter framework to create mobile apps.
+Knows: JavaScript/TS, Java, Golang, PHP, Python, Dart and Swift. 
 
-Java developer(Spring, SpringData JPA, SpringBoot) technologies, REST API's, SQL and NOSQL databases, Firebase apps,  AWS(EC2, Lambda, S3, RDS).
+Frontend: I've been working with frameworks like React Native using Javascript/Typescript with Functional or Class components, Hooks, Context Api, Redux(thunks, sagas, offline first apps, styled components and animations. I'm also programming using the Flutter framework to create mobile apps.
 
-:books: I’m currently learning everything about software development.
-
-:books: Studying Golang as a hobby.
+Backend: NodeJS and Java (Spring, SpringData JPA, SpringBoot) technologies, REST API's, SQL and NOSQL databases, Firebase apps,  AWS(EC2, Lambda, S3, RDS), Observability, monitoring and performance tools. 
 
 :rocket: 2023 Goals: <s>Start a new post-graduate degree.</s>
 
