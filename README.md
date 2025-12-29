@@ -14,15 +14,9 @@ Backend: NodeJS and Java (Spring, SpringData JPA, SpringBoot) technologies, REST
 
 :clipboard: 2024 Goals: <s>Obtain an AWS Certified Solutions Architect.</s>
 
-🇪🇸 2025 Goals: Learn Spanish language basics
+🇪🇸 2025 Goals: <s>Learn Spanish language basics</s>
 
 
-
-
-<div>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohbraga&hide=java,dart&layout=compact&langs_count=7&theme=algolia"/>
-</div>
 
 
 ##
